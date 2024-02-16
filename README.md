@@ -1,6 +1,6 @@
-# GDP Dash
+# :earth_americas: GDP Dash
 
-A simple app showing the GDP of different countries in the world.
+A simple Streamlit app showing the GDP of different countries in the world.
 
 ### How to run it on your own machine
 
